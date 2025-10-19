@@ -19,7 +19,9 @@ A simple REST API that returns my profile info along with a random cat fact from
   "fact": "Cats have five toes on their front paws, but only four on the back."
 }
 
+
 ⚙️ Setup Instructions
+
 1️⃣ Clone the repository
 ```
 git clone https://github.com/<your-username>/<your-repo-name>.git
@@ -44,3 +46,10 @@ python manage.py runserver
 ```
 Then visit:
 👉 http://127.0.0.1:8000/me
+
+
+Author
+
+Ogundijo Fikayo
+Email: fikayo@example.com
+Stack: Python/FastAPI
